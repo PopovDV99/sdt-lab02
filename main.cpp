@@ -2,6 +2,7 @@
 using namespace std;
 
 int
+//программа является учебной
 main() {
     int a, b;
      cout << "Enter A and B: ";
